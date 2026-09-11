@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mainProfile.png"
+  avatar           : "/images/mainProfile.jpg"
   name             : "Dr. Patrick Duffy"
   pronouns         : "he/him"
   bio              : "I am a Biological Oceanographer that synthesizes planktonic interactions across trophic, spatial, and temporal scales. My published research spans ~6 orders of magnitude in organism size, from phytoplankton-grazing dynamics to macrozooplankton ecology. I have an interdisciplinary skillset that combines field observations, experimental rates, existing datasets, and computational approaches."
   location         : "GA, USA"
-  employer         : "N/A"
+  employer         : # 
   uri              : # URL
   email            : "patrick@piduffy.com" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app/profile/pduffyplankton.bsky.social" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app/profile/pduffyplankton.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
