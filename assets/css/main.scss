@@ -41,7 +41,7 @@
 .sidebar {
   @media screen and (min-width: $sidebar-screen-min-width) {
     left: auto;
-    right: 0;
+    right: 50px;
     margin-top: 85px;
   }
 }
