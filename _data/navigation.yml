@@ -9,7 +9,7 @@
 
 main:
   - title: "Research Highlights"
-    url: /publications/
+    url: /research/
 
  # - title: ""
   #  url: /year-archive/
@@ -18,7 +18,7 @@ main:
     url: /cv/    
 
   - title: "Pedagogy"
-    url: /teaching/    
+    url: /pedagogy/    
         
  # - title: "Portfolio"
  #   url: /portfolio/
