@@ -42,12 +42,13 @@
   @media screen and (min-width: $sidebar-screen-min-width) {
     left: auto;
     right: 0;
+    margin-top: 85px;
   }
 }
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(2 of 12);
-    @include suffix(0.5 of 12);
+    @include prefix(0.5 of 12);   /* back to a small gutter, not 2 */
+    @include suffix(2 of 12);     /* keep some breathing room before the sidebar */
   }
 }
