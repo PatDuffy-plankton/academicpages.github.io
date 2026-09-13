@@ -39,13 +39,15 @@
 ;
 /* Custom overrides below */
 .sidebar {
-  float: right;
-  margin-left: 1.69%;
-  margin-right: 0;
-  margin-top: 85px;
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    left: auto;
+    right: 0;
+  }
 }
 .page {
-  float: left;
-  margin-left: 0;
-  margin-right: 1.69%;
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(2 of 12);
+    @include suffix(0.5 of 12);
+  }
 }
