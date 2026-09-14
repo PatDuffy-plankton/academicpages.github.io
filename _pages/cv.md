@@ -13,5 +13,5 @@ redirect_from:
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://piduffy.com/files/DuffyCV2026.pdf"
   width="100%"
-  style="border:none;">
+  style="border: none; height: 85vh; min-height: 600px;">
 </iframe>
