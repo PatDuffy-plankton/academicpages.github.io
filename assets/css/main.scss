@@ -52,3 +52,7 @@
     @include suffix(2 of 12);     /* keep some breathing room before the sidebar */
   }
 }
+/*targeting a specific page to have override text displayed*/
+.cv-page .page__content {
+  overflow: visible;
+}
