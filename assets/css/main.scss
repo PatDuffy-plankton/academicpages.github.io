@@ -55,7 +55,7 @@
     @include suffix(2 of 12);     /* keep some breathing room before the sidebar */
   }
 }
-/*targeting a specific page to have override text displayed*/
+/*targeting a specific page (CV page with Mozilla in-browser PDF viewer plugin from GitHub link/code) to have override text displayed*/
 .cv-page .page__content {
   overflow: visible;
 }

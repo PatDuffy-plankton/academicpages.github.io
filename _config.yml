@@ -81,8 +81,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 research_category:
-  books:
-    title: 'Books'
+  media:
+    title: 'Awards & Media Mentions'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
