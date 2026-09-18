@@ -1,8 +1,8 @@
 ---
-title: "Full‐year in situ imaging reveals fine‐scale habitat differences among salp and doliolid life stages"
+title: "Full-year in situ imaging reveals fine-scale habitat differences among salp and doliolid life stages"
 collection: research
 category: manuscripts
-permalink: /research/time-series-thaliaceans
+permalink: /research/salp-doliolid-habitat
 excerpt: 'This paper quantifies aspects of realized niche space for different Thaliacean life stages from monthly observations on a western boundary current adjacent shelf.'
 date: 2026-07
 venue: 'Limnology & Oceanography'
