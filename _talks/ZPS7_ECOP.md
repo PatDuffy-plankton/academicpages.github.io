@@ -3,7 +3,7 @@ title: "7th International Zooplankton Production Symposium, Best Oral Presentati
 collection: talks
 type: "Talk"
 permalink: /research/talks/ZPS7-ECOP-Award
-venue: "Hobart, Tasmania"
+venue: "ICES-PICES ZPS7"
 date: 2024-03-22
 location: "Hobart, Tasmania, AUS"
 ---
