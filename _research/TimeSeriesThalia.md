@@ -4,7 +4,7 @@ collection: research
 category: manuscripts
 permalink: /research/salp-doliolid-habitat
 excerpt: 'This paper quantifies aspects of realized niche space for different Thaliacean life stages from monthly observations on a western boundary current adjacent shelf.'
-date: 2026-07
+date: 2026-07-05
 venue: 'Limnology & Oceanography'
 paperurl: 'https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.70458'
 citation: 'PI Duffy, LM Treible, EE Gipson, ME Frischer, AT Greer (2026). <i>Limnology and Oceanography</i>. 71(7).'
