@@ -229,7 +229,7 @@ collections:
     permalink: /research/:path/
   talks:
     output: true
-    permalink: /research/:path/
+    permalink: /research/awards/:path/
 
 
 # These settings control how pages and collections are included in the site

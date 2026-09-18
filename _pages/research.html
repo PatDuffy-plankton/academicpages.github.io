@@ -11,6 +11,26 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Awards Related to Research -->
+<h2>Awards Related to Research</h2>
+<hr />
+{% for post in site.talks reversed %}
+  <article class="talk">
+    <h3>{{ post.title }}</h3>
+
+    {% if post.venue %}
+      <p><strong>{{ post.venue }}</strong>
+      {% if post.location %} — {{ post.location }}{% endif %}
+      {% if post.date %} — {{ post.date | date: "%B %Y" }}{% endif %}
+      </p>
+    {% endif %}
+
+    <div class="talk-content">
+      {{ post.content }}
+    </div>
+  </article>
+{% endfor %}
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.research_category %}
   {% for category in site.research_category  %}
