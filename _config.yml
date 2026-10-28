@@ -224,10 +224,6 @@ collections:
   research:
     output: true
     permalink: /research/:path/
-  #pedagogy is labelled as portfolio because I hijacked a template
-  portfolio:
-    output: true
-    permalink: /pedagogy/:path/
   talks:
     output: true
     permalink: /research/awards/:path/
