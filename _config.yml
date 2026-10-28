@@ -226,7 +226,7 @@ collections:
     permalink: /research/:path/
   portfolio:
     output: true
-    permalink: /research/:path/
+    permalink: /portfolio/:path/
   talks:
     output: true
     permalink: /research/awards/:path/
